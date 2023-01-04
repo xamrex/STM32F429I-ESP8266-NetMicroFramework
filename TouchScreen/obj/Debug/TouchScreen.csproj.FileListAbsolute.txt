@@ -1,0 +1,85 @@
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen\TouchScreen\bin\Debug\le\TouchScreenExample.exe
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen\TouchScreen\bin\Debug\be\TouchScreenExample.exe
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen\TouchScreen\bin\Debug\le\TouchScreenExample.pdb
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen\TouchScreen\bin\Debug\be\TouchScreenExample.pdb
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen\TouchScreen\bin\Debug\TouchScreenExample.exe
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen\TouchScreen\bin\Debug\TouchScreenExample.pdb
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen\TouchScreen\bin\Debug\le\TouchScreenExample.pe
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen\TouchScreen\bin\Debug\le\TouchScreenExample.pdbx
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen\TouchScreen\bin\Debug\be\TouchScreenExample.pe
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen\TouchScreen\bin\Debug\be\TouchScreenExample.pdbx
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.Resources.resources
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen\TouchScreen\obj\Debug\TouchScreen.csproj.GenerateResource.Cache
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.Resources.tinyresources
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen\TouchScreen\obj\Debug\TinyResGen.cache
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen\TouchScreen\obj\Debug\be\TouchScreenExample.pe
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen\TouchScreen\obj\Debug\be\TouchScreenExample.pdbx
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen\TouchScreen\obj\Debug\le\TouchScreenExample.pe
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen\TouchScreen\obj\Debug\le\TouchScreenExample.pdbx
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.exe
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.pdb
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen\TouchScreen\bin\Debug\le\TouchScreenExample.exe
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen\TouchScreen\bin\Debug\be\TouchScreenExample.exe
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen\TouchScreen\bin\Debug\le\TouchScreenExample.pdb
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen\TouchScreen\bin\Debug\be\TouchScreenExample.pdb
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen\TouchScreen\bin\Debug\TouchScreenExample.exe
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen\TouchScreen\bin\Debug\TouchScreenExample.pdb
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen\TouchScreen\bin\Debug\le\TouchScreenExample.pe
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen\TouchScreen\bin\Debug\le\TouchScreenExample.pdbx
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen\TouchScreen\bin\Debug\be\TouchScreenExample.pe
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen\TouchScreen\bin\Debug\be\TouchScreenExample.pdbx
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.Resources.resources
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen\TouchScreen\obj\Debug\TouchScreen.csproj.GenerateResource.Cache
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.Resources.tinyresources
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen\TouchScreen\obj\Debug\TinyResGen.cache
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen\TouchScreen\obj\Debug\be\TouchScreenExample.pe
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen\TouchScreen\obj\Debug\be\TouchScreenExample.pdbx
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen\TouchScreen\obj\Debug\le\TouchScreenExample.pe
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen\TouchScreen\obj\Debug\le\TouchScreenExample.pdbx
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.exe
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.pdb
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen\TouchScreen\obj\Debug\TinyCLR_DebugReferences.cache
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\bin\Debug\le\TouchScreenExample.exe
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\bin\Debug\be\TouchScreenExample.exe
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\bin\Debug\le\TouchScreenExample.pdb
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\bin\Debug\be\TouchScreenExample.pdb
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\bin\Debug\TouchScreenExample.exe
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\bin\Debug\TouchScreenExample.pdb
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\bin\Debug\le\TouchScreenExample.pe
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\bin\Debug\le\TouchScreenExample.pdbx
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\bin\Debug\be\TouchScreenExample.pe
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\bin\Debug\be\TouchScreenExample.pdbx
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\obj\Debug\TouchScreenExample.Resources.resources
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\obj\Debug\TouchScreen.csproj.GenerateResource.Cache
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\obj\Debug\TouchScreenExample.Resources.tinyresources
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\obj\Debug\TinyResGen.cache
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\obj\Debug\be\TouchScreenExample.pe
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\obj\Debug\be\TouchScreenExample.pdbx
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\obj\Debug\le\TouchScreenExample.pe
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\obj\Debug\le\TouchScreenExample.pdbx
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\obj\Debug\TouchScreenExample.exe
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\obj\Debug\TouchScreenExample.pdb
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\bin\Debug\le\TouchScreenExample.exe
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\bin\Debug\be\TouchScreenExample.exe
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\bin\Debug\le\TouchScreenExample.pdb
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\bin\Debug\be\TouchScreenExample.pdb
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\bin\Debug\TouchScreenExample.exe
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\bin\Debug\TouchScreenExample.pdb
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\bin\Debug\le\TouchScreenExample.pe
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\bin\Debug\le\TouchScreenExample.pdbx
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\bin\Debug\be\TouchScreenExample.pe
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\bin\Debug\be\TouchScreenExample.pdbx
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\obj\Debug\TouchScreen.csprojResolveAssemblyReference.cache
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\obj\Debug\TinyCLR_DebugReferences.cache
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\obj\Debug\TouchScreenExample.Resources.resources
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\obj\Debug\TouchScreen.csproj.GenerateResource.Cache
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\obj\Debug\TouchScreenExample.Resources.tinyresources
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\obj\Debug\TinyResGen.cache
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\obj\Debug\be\TouchScreenExample.pe
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\obj\Debug\be\TouchScreenExample.pdbx
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\obj\Debug\le\TouchScreenExample.pe
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\obj\Debug\le\TouchScreenExample.pdbx
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\obj\Debug\TouchScreenExample.exe
+D:\rzeczy\Dokumenty\STM32MicroFramework Projekty\TouchScreen3\TouchScreen\obj\Debug\TouchScreenExample.pdb
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\obj\Debug\TinyCLR_DebugReferences.cache
+D:\rzeczy\Dokumenty\Stm32F4\Pliki po3ebne do do uruchomienia .netmf w zestawie uruchomieniowym en.stsw-stm32141\Examples\TouchScreen3\TouchScreen\obj\Debug\TouchScreen.csprojResolveAssemblyReference.cache
